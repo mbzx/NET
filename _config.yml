@@ -2,14 +2,14 @@ markdown: rdiscount
 permalink: /:title/
 url: http://yonsm.net
 name: Yonsm.NET
-author: Yonsm
+author: mbzx
 qq: 123018
 email: Yonsm@msn.com
-duoshuo: yonsm
-beian: 浙ICP备12026616号
-cnzz: 119959
-weibo: 1885061391
-github: Yonsm
+duoshuo: mbzx
+beian: 
+cnzz: 
+weibo: 2596101557
+github: mbzx
 pygments: true
 safe: true
 paginate: 20
