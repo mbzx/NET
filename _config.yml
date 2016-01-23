@@ -3,7 +3,7 @@ permalink: /:title/
 url: http://mbzx.github.io/net
 name: Yonsm.NET
 author: mbzx
-baseurl: /net
+baseurl: "/net"
 qq: 123018
 email: Yonsm@msn.com
 duoshuo: 
